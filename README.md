@@ -6,7 +6,7 @@
 
 ![Numix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NumixDev&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&hide_progress=false&theme=cobalt)](https://github.com/NumixDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech or smth that I ~dont know how to~ use daily
 
@@ -17,3 +17,5 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
 </div>
+
+
