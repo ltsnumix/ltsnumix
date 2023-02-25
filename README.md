@@ -6,6 +6,8 @@
 
 ![Numix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NumixDev&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&hide_progress=false&theme=cobalt)](https://github.com/NumixDev/github-readme-stats)
+
 ### Tech or smth that I ~dont know how to~ use daily
 
 <div style="display: inline_block"><br/>
