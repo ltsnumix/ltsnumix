@@ -1,6 +1,7 @@
 
 
-![Screenshot](screenshot.png)
+<img src=https://i.pinimg.com/originals/5a/eb/e8/5aebe8d9ab4c7591e609496f1dca0d0b.gif />
+
 
 ### ⬇ My Replit account
 
