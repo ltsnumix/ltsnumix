@@ -1,6 +1,6 @@
 
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhdqwalls.com%2Fwallpaper%2F1366x768%2Fwind-waker-night-4k&psig=AOvVaw0cdcKK_jEvePjK3cTxZcwK&ust=1693865384826000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLihsri6j4EDFQAAAAAdAAAAABAI)
+![Screenshot](screenshot.png)
 
 ### ⬇ My Replit account
 
