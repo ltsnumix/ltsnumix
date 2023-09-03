@@ -4,7 +4,7 @@
 
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@Numix)
 
-![Numix's GitHub stats]((https://github-readme-stats.vercel.app/api?username=numixdev&show_icons=true&theme=transparent)
+![Numix's GitHub stats](https://github-readme-stats.vercel.app/api?username=numixdev&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&layout=compact&theme=cobalt)
 ### Recommended Technology
