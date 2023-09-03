@@ -6,8 +6,7 @@
 
 ![Numix's GitHub stats]((https://github-readme-stats.vercel.app/api?username=numixdev&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&layout=compact&theme=cobalt)
 ### Recommended Technology
 
 <div style="display: inline_block"><br/>
