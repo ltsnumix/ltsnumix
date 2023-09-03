@@ -1,4 +1,4 @@
-## A
+
 
 ### ⬇ My Replit account
 
@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tech or smth that I ~dont know how to~ use daily
+### Recommended Technology
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
