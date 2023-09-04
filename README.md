@@ -3,7 +3,7 @@
 
 <div style="display: inline_block"><br/>
 
-  <img src="https://skillicons.dev/icons?i=github,linux,vscode,unity,cpp,c," /><br>
+  <img src="https://skillicons.dev/icons?i=github,linux,vscode,unity,cpp,c,cs" /><br>
   
 </div>
 
