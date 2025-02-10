@@ -7,9 +7,9 @@
   
 </div>
 
-![Numix's GitHub stats](https://github-readme-stats.vercel.app/api?username=numixdev&show_icons=true&theme=dark)
+![Numix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsnumix&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NumixDev&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltsnumix&layout=compact&theme=dark)
 
 
 
