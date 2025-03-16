@@ -5,7 +5,7 @@
   
 </div>
 
-![Numix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsnumix&show_icons=true&theme=dark)
+
 
 
 
